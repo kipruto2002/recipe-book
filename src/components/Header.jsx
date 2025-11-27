@@ -59,12 +59,6 @@ export default function Header() {
                   >
                     Log In
                   </Link>
-                  <Link 
-                    to="/signup" 
-                    className="bg-white text-orange-600 font-semibold px-4 py-2 rounded-lg hover:bg-gray-100 transition-all"
-                  >
-                    Sign Up
-                  </Link>
                 </>
               )}
             </div>
@@ -114,12 +108,6 @@ export default function Header() {
                 className="flex-1 text-center text-white hover:bg-white hover:bg-opacity-20 px-2 py-2 rounded-lg transition-all text-sm font-medium"
               >
                 Log In
-              </Link>
-              <Link 
-                to="/signup" 
-                className="flex-1 text-center bg-white text-orange-600 font-semibold px-2 py-2 rounded-lg hover:bg-gray-100 transition-all text-sm"
-              >
-                Sign Up
               </Link>
             </>
           )}
